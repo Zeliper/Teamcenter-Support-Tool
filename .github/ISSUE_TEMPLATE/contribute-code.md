@@ -1,6 +1,6 @@
 ---
 name: Contribute Code
-about: Code Contribution
+about: Code Contribution with Pull Request
 title: ''
 labels: contribute
 assignees: ''
@@ -10,4 +10,4 @@ assignees: ''
 **Please submit this Issue after Sending PullRequest and write information below example**
 
 **Example**
-PullRequestName#1
+PullRequestName : #1
