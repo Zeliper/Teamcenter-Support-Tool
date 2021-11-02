@@ -7,6 +7,7 @@ assignees: ''
 
 ---
 
-**Please submit this Issue after Sending PullRequest**
+**Please submit this Issue after Sending PullRequest and write information below example**
 
-PR : [#]
+**Example**
+PullRequestName#1
